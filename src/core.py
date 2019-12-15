@@ -52,22 +52,36 @@ class PixelArtConverter:
         return min_index
 
     def compute_cow_file(self, image, name):
+        with open("./src/256-color-palette.json", 'r') as f:
+            color_palette = json.load(f)
         with open(name + ".cow", 'w') as f:
-            f.write("# ", name)
-            f.write("# Generated with Luffy's PIXEL ART CONVERTER")
-            f.write("")
-            f.write('$x = "\e[49m  ";          #reset color')
-            f.write('$t = "$thoughts ";')
-            for colorId in range(self._color_list):
-                f.write('$', )
-
+            f.write('# ' + name + '\n')
+            f.write("# Generated with Luffy's PIXEL ART CONVERTER\n")
+            f.write("\n")
+            f.write('$x = "\e[49m  ";          #reset color\n')
+            f.write('$t = "$thoughts ";\n')
+            for colorId in range(len(self._color_list)):
+                f.write('$' + color_palette[str(colorId)] + ' = "\e[48;5;' + str(colorId) + 'm  ";\n')
+            f.write("\n")
+            f.write("$the_cow = <<EOC\n")
+            # f.write("          $t\n")
+            # f.write("            $t\n")
+            # f.write("              $t\n")
+            # f.write("                $t\n")
+            for i in range(image.shape[0]):
+                for j in range(image.shape[1]):
+                    pixel_LAB = np.reshape(cv2.cvtColor(np.reshape(image[i, j], [1, 1, 3]), cv2.COLOR_BGR2LAB), [3])
+                    colorId = self._find_closest_color(pixel_LAB)
+                    f.write("$" + color_palette[str(colorId)])
+                f.write("$x\n")
+            f.write("EOC\n")
 
 def main():
     image = cv2.imread("./test/luffy.jpg")
     
     PAC = PixelArtConverter()
     PAC.set_image(image)
-    PAC.set_width(50)
+    PAC.set_width(32)
     PAC.set_color_list("./src/256-color-list.json")
     result = PAC.run()
     
@@ -76,6 +90,8 @@ def main():
     cv2.namedWindow("Result", cv2.WINDOW_NORMAL)
     cv2.imshow("Result", result)
     cv2.waitKey()
+    
+    PAC.compute_cow_file(result, "luffy")
 
 if __name__ == '__main__':
     main()

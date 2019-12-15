@@ -1,0 +1,296 @@
+# luffy
+# Generated with Luffy's PIXEL ART CONVERTER
+
+$x = "\e[49m  ";          #reset color
+$t = "$thoughts ";
+$a = "\e[48;5;0m  ";
+$b = "\e[48;5;1m  ";
+$c = "\e[48;5;2m  ";
+$d = "\e[48;5;3m  ";
+$e = "\e[48;5;4m  ";
+$f = "\e[48;5;5m  ";
+$g = "\e[48;5;6m  ";
+$h = "\e[48;5;7m  ";
+$i = "\e[48;5;8m  ";
+$j = "\e[48;5;9m  ";
+$k = "\e[48;5;10m  ";
+$l = "\e[48;5;11m  ";
+$m = "\e[48;5;12m  ";
+$n = "\e[48;5;13m  ";
+$o = "\e[48;5;14m  ";
+$p = "\e[48;5;15m  ";
+$q = "\e[48;5;16m  ";
+$r = "\e[48;5;17m  ";
+$s = "\e[48;5;18m  ";
+$u = "\e[48;5;19m  ";
+$v = "\e[48;5;20m  ";
+$w = "\e[48;5;21m  ";
+$y = "\e[48;5;22m  ";
+$z = "\e[48;5;23m  ";
+$A = "\e[48;5;24m  ";
+$B = "\e[48;5;25m  ";
+$C = "\e[48;5;26m  ";
+$D = "\e[48;5;27m  ";
+$E = "\e[48;5;28m  ";
+$F = "\e[48;5;29m  ";
+$G = "\e[48;5;30m  ";
+$H = "\e[48;5;31m  ";
+$I = "\e[48;5;32m  ";
+$J = "\e[48;5;33m  ";
+$K = "\e[48;5;34m  ";
+$L = "\e[48;5;35m  ";
+$M = "\e[48;5;36m  ";
+$N = "\e[48;5;37m  ";
+$O = "\e[48;5;38m  ";
+$P = "\e[48;5;39m  ";
+$Q = "\e[48;5;40m  ";
+$R = "\e[48;5;41m  ";
+$S = "\e[48;5;42m  ";
+$U = "\e[48;5;43m  ";
+$V = "\e[48;5;44m  ";
+$W = "\e[48;5;45m  ";
+$Y = "\e[48;5;46m  ";
+$Z = "\e[48;5;47m  ";
+$aa = "\e[48;5;48m  ";
+$ab = "\e[48;5;49m  ";
+$ac = "\e[48;5;50m  ";
+$ad = "\e[48;5;51m  ";
+$ae = "\e[48;5;52m  ";
+$af = "\e[48;5;53m  ";
+$ag = "\e[48;5;54m  ";
+$ah = "\e[48;5;55m  ";
+$ai = "\e[48;5;56m  ";
+$aj = "\e[48;5;57m  ";
+$ak = "\e[48;5;58m  ";
+$al = "\e[48;5;59m  ";
+$am = "\e[48;5;60m  ";
+$an = "\e[48;5;61m  ";
+$ao = "\e[48;5;62m  ";
+$ap = "\e[48;5;63m  ";
+$aq = "\e[48;5;64m  ";
+$ar = "\e[48;5;65m  ";
+$as = "\e[48;5;66m  ";
+$au = "\e[48;5;67m  ";
+$av = "\e[48;5;68m  ";
+$aw = "\e[48;5;69m  ";
+$ay = "\e[48;5;70m  ";
+$az = "\e[48;5;71m  ";
+$aA = "\e[48;5;72m  ";
+$aB = "\e[48;5;73m  ";
+$aC = "\e[48;5;74m  ";
+$aD = "\e[48;5;75m  ";
+$aE = "\e[48;5;76m  ";
+$aF = "\e[48;5;77m  ";
+$aG = "\e[48;5;78m  ";
+$aH = "\e[48;5;79m  ";
+$aI = "\e[48;5;80m  ";
+$aJ = "\e[48;5;81m  ";
+$aK = "\e[48;5;82m  ";
+$aL = "\e[48;5;83m  ";
+$aM = "\e[48;5;84m  ";
+$aN = "\e[48;5;85m  ";
+$aO = "\e[48;5;86m  ";
+$aP = "\e[48;5;87m  ";
+$aQ = "\e[48;5;88m  ";
+$aR = "\e[48;5;89m  ";
+$aS = "\e[48;5;90m  ";
+$aU = "\e[48;5;91m  ";
+$aV = "\e[48;5;92m  ";
+$aW = "\e[48;5;93m  ";
+$aY = "\e[48;5;94m  ";
+$aZ = "\e[48;5;95m  ";
+$ba = "\e[48;5;96m  ";
+$bb = "\e[48;5;97m  ";
+$bc = "\e[48;5;98m  ";
+$bd = "\e[48;5;99m  ";
+$be = "\e[48;5;100m  ";
+$bf = "\e[48;5;101m  ";
+$bg = "\e[48;5;102m  ";
+$bh = "\e[48;5;103m  ";
+$bi = "\e[48;5;104m  ";
+$bj = "\e[48;5;105m  ";
+$bk = "\e[48;5;106m  ";
+$bl = "\e[48;5;107m  ";
+$bm = "\e[48;5;108m  ";
+$bn = "\e[48;5;109m  ";
+$bo = "\e[48;5;110m  ";
+$bp = "\e[48;5;111m  ";
+$bq = "\e[48;5;112m  ";
+$br = "\e[48;5;113m  ";
+$bs = "\e[48;5;114m  ";
+$bu = "\e[48;5;115m  ";
+$bv = "\e[48;5;116m  ";
+$bw = "\e[48;5;117m  ";
+$by = "\e[48;5;118m  ";
+$bz = "\e[48;5;119m  ";
+$bA = "\e[48;5;120m  ";
+$bB = "\e[48;5;121m  ";
+$bC = "\e[48;5;122m  ";
+$bD = "\e[48;5;123m  ";
+$bE = "\e[48;5;124m  ";
+$bF = "\e[48;5;125m  ";
+$bG = "\e[48;5;126m  ";
+$bH = "\e[48;5;127m  ";
+$bI = "\e[48;5;128m  ";
+$bJ = "\e[48;5;129m  ";
+$bK = "\e[48;5;130m  ";
+$bL = "\e[48;5;131m  ";
+$bM = "\e[48;5;132m  ";
+$bN = "\e[48;5;133m  ";
+$bO = "\e[48;5;134m  ";
+$bP = "\e[48;5;135m  ";
+$bQ = "\e[48;5;136m  ";
+$bR = "\e[48;5;137m  ";
+$bS = "\e[48;5;138m  ";
+$bU = "\e[48;5;139m  ";
+$bV = "\e[48;5;140m  ";
+$bW = "\e[48;5;141m  ";
+$bY = "\e[48;5;142m  ";
+$bZ = "\e[48;5;143m  ";
+$ca = "\e[48;5;144m  ";
+$cb = "\e[48;5;145m  ";
+$cc = "\e[48;5;146m  ";
+$cd = "\e[48;5;147m  ";
+$ce = "\e[48;5;148m  ";
+$cf = "\e[48;5;149m  ";
+$cg = "\e[48;5;150m  ";
+$ch = "\e[48;5;151m  ";
+$ci = "\e[48;5;152m  ";
+$cj = "\e[48;5;153m  ";
+$ck = "\e[48;5;154m  ";
+$cl = "\e[48;5;155m  ";
+$cm = "\e[48;5;156m  ";
+$cn = "\e[48;5;157m  ";
+$co = "\e[48;5;158m  ";
+$cp = "\e[48;5;159m  ";
+$cq = "\e[48;5;160m  ";
+$cr = "\e[48;5;161m  ";
+$cs = "\e[48;5;162m  ";
+$cu = "\e[48;5;163m  ";
+$cv = "\e[48;5;164m  ";
+$cw = "\e[48;5;165m  ";
+$cy = "\e[48;5;166m  ";
+$cz = "\e[48;5;167m  ";
+$cA = "\e[48;5;168m  ";
+$cB = "\e[48;5;169m  ";
+$cC = "\e[48;5;170m  ";
+$cD = "\e[48;5;171m  ";
+$cE = "\e[48;5;172m  ";
+$cF = "\e[48;5;173m  ";
+$cG = "\e[48;5;174m  ";
+$cH = "\e[48;5;175m  ";
+$cI = "\e[48;5;176m  ";
+$cJ = "\e[48;5;177m  ";
+$cK = "\e[48;5;178m  ";
+$cL = "\e[48;5;179m  ";
+$cM = "\e[48;5;180m  ";
+$cN = "\e[48;5;181m  ";
+$cO = "\e[48;5;182m  ";
+$cP = "\e[48;5;183m  ";
+$cQ = "\e[48;5;184m  ";
+$cR = "\e[48;5;185m  ";
+$cS = "\e[48;5;186m  ";
+$cU = "\e[48;5;187m  ";
+$cV = "\e[48;5;188m  ";
+$cW = "\e[48;5;189m  ";
+$cY = "\e[48;5;190m  ";
+$cZ = "\e[48;5;191m  ";
+$da = "\e[48;5;192m  ";
+$db = "\e[48;5;193m  ";
+$dc = "\e[48;5;194m  ";
+$dd = "\e[48;5;195m  ";
+$de = "\e[48;5;196m  ";
+$df = "\e[48;5;197m  ";
+$dg = "\e[48;5;198m  ";
+$dh = "\e[48;5;199m  ";
+$di = "\e[48;5;200m  ";
+$dj = "\e[48;5;201m  ";
+$dk = "\e[48;5;202m  ";
+$dl = "\e[48;5;203m  ";
+$dm = "\e[48;5;204m  ";
+$dn = "\e[48;5;205m  ";
+$do = "\e[48;5;206m  ";
+$dp = "\e[48;5;207m  ";
+$dq = "\e[48;5;208m  ";
+$dr = "\e[48;5;209m  ";
+$ds = "\e[48;5;210m  ";
+$du = "\e[48;5;211m  ";
+$dv = "\e[48;5;212m  ";
+$dw = "\e[48;5;213m  ";
+$dy = "\e[48;5;214m  ";
+$dz = "\e[48;5;215m  ";
+$dA = "\e[48;5;216m  ";
+$dB = "\e[48;5;217m  ";
+$dC = "\e[48;5;218m  ";
+$dD = "\e[48;5;219m  ";
+$dE = "\e[48;5;220m  ";
+$dF = "\e[48;5;221m  ";
+$dG = "\e[48;5;222m  ";
+$dH = "\e[48;5;223m  ";
+$dI = "\e[48;5;224m  ";
+$dJ = "\e[48;5;225m  ";
+$dK = "\e[48;5;226m  ";
+$dL = "\e[48;5;227m  ";
+$dM = "\e[48;5;228m  ";
+$dN = "\e[48;5;229m  ";
+$dO = "\e[48;5;230m  ";
+$dP = "\e[48;5;231m  ";
+$dQ = "\e[48;5;232m  ";
+$dR = "\e[48;5;233m  ";
+$dS = "\e[48;5;234m  ";
+$dU = "\e[48;5;235m  ";
+$dV = "\e[48;5;236m  ";
+$dW = "\e[48;5;237m  ";
+$dY = "\e[48;5;238m  ";
+$dZ = "\e[48;5;239m  ";
+$ea = "\e[48;5;240m  ";
+$eb = "\e[48;5;241m  ";
+$ec = "\e[48;5;242m  ";
+$ed = "\e[48;5;243m  ";
+$ee = "\e[48;5;244m  ";
+$ef = "\e[48;5;245m  ";
+$eg = "\e[48;5;246m  ";
+$eh = "\e[48;5;247m  ";
+$ei = "\e[48;5;248m  ";
+$ej = "\e[48;5;249m  ";
+$ek = "\e[48;5;250m  ";
+$el = "\e[48;5;251m  ";
+$em = "\e[48;5;252m  ";
+$en = "\e[48;5;253m  ";
+$eo = "\e[48;5;254m  ";
+$ep = "\e[48;5;255m  ";
+
+$the_cow = <<EOC
+$eg$eh$cb$ej$eh$ef$ed$i$bg$ef$eg$eg$eg$eg$eh$eh$eh$eh$eg$eg$eg$eg$ef$bg$i$ed$ec$eb$ea$dZ$dY$dY$x
+$al$al$eb$ec$ed$i$bg$ef$eg$eg$eh$eh$ei$ei$ei$ei$ei$ei$ei$eh$eh$eg$eg$bg$i$ec$am$dZ$dY$dW$dW$dV$x
+$eb$eb$ec$ed$i$bg$eg$eg$eh$ei$ei$cb$cb$cb$ej$cb$cb$cb$ei$eg$bg$bg$i$ed$ec$eb$al$ea$dZ$dZ$dZ$dZ$x
+$eb$ec$ed$i$ef$eg$eh$eh$ei$cb$cb$ei$cb$eh$ei$ei$eh$eg$ed$eb$i$i$i$i$i$i$bg$ef$eg$eh$eh$eh$x
+$eb$ed$i$bg$eg$eh$eh$ei$ei$ei$ei$ed$dV$eb$eg$ed$dY$dY$dW$dW$ea$ed$eg$ek$cU$cU$cU$cU$cU$cU$el$ek$x
+$dZ$eb$ed$i$ef$eg$eg$eh$eh$eh$eh$ec$dU$dV$al$dV$dU$dV$dV$dU$dV$dS$dS$dY$ek$eo$dH$cU$cU$cU$cU$el$x
+$ed$ec$ec$eb$ed$ef$eg$eh$ei$ej$ca$dZ$dU$dS$dR$dQ$dQ$dR$dR$dS$dS$dS$dU$dU$dS$al$ek$cU$cU$cU$cU$cU$x
+$ei$cb$eh$bg$eg$cb$h$cU$cU$cU$ei$dU$dQ$dQ$dQ$dQ$dQ$dQ$dQ$dQ$dQ$dR$dR$dS$dS$dV$ej$cU$ep$cU$cU$cU$x
+$ej$ek$h$ch$cU$cU$cU$h$i$ed$dW$dQ$a$dQ$dR$dR$dQ$dQ$dQ$dQ$dQ$dQ$dQ$dQ$dR$dS$dW$h$dO$ep$cU$cU$x
+$ek$el$cU$cU$cU$cU$cU$cb$eh$dU$dQ$dQ$dR$dU$dV$dV$dU$dS$dR$dR$dQ$dQ$dQ$dQ$dR$dR$dS$ei$dO$dO$dH$cU$x
+$h$cU$cU$cU$cU$cU$dc$ek$dV$dQ$a$dR$dS$dU$dW$dW$dY$dW$dU$dU$dR$dR$dR$dR$dR$dR$dW$cU$dO$dO$ep$cU$x
+$el$cU$cU$cU$cU$cU$cU$dW$dS$a$dQ$dR$dS$dU$dV$dW$ea$dZ$dY$dY$dV$dU$dS$dU$dU$dU$dY$dO$dO$dO$dO$cU$x
+$cU$cU$cU$cU$cU$dc$ek$dY$dR$a$dQ$dR$dR$dS$dV$dW$dY$ea$ea$dZ$dY$dW$dV$dW$dY$bL$cM$dO$dO$dO$dO$dH$x
+$cU$cU$cU$cU$cU$dc$cb$ec$dR$dQ$dR$dR$dS$dV$dW$dY$al$ec$al$dZ$dZ$dW$dW$dW$dZ$cF$cF$dO$dO$dO$dO$eo$x
+$cU$cU$cU$cU$cU$dc$cU$i$dR$dQ$dR$dS$dU$dW$dZ$eb$bf$ed$ea$dZ$dZ$dY$dW$dW$bL$cF$cF$dO$dO$dO$dO$eo$x
+$cU$cU$cU$cU$dc$dc$dc$eg$dR$dR$dS$dS$dV$dW$ea$ec$aZ$eb$ea$ea$dY$dZ$dY$bL$cF$cF$cL$dO$dO$dO$dO$eo$x
+$cU$cU$cU$eo$dc$dc$dc$cU$dS$dR$dS$dU$dV$dW$dZ$ea$aZ$al$al$ea$dZ$aZ$bR$cL$dz$dG$bR$ek$dO$dO$dO$dH$x
+$cU$cU$cU$cU$dc$dc$dc$dc$dZ$dR$dS$dU$dU$dU$dV$aZ$cM$bR$aZ$aZ$aZ$bR$cL$dz$dz$bR$dV$ej$dO$dO$dO$dH$x
+$cU$cU$cU$cU$dc$dc$dc$dc$cU$dS$dR$dS$dU$dV$dW$bR$dY$bL$bR$bf$bR$cL$dz$dz$cF$dV$bg$dO$dO$dO$dO$cU$x
+$cU$cU$cU$cU$cU$dc$dc$dc$dc$ed$dR$dS$dU$dY$aZ$bL$dW$bR$cF$bR$bR$cL$dz$dz$cL$dY$ef$dO$dO$dO$ep$cU$x
+$el$cU$cU$cU$cU$dc$dc$dc$dc$h$dR$dR$dS$dY$aZ$aR$dU$bR$cF$bL$aZ$cF$cF$cL$cL$bL$aZ$cU$dO$dO$dH$cU$x
+$h$cU$cU$cU$cU$cU$dc$dc$dc$dc$dU$dR$dS$dV$dW$ae$aZ$dZ$bR$bL$bL$bL$bL$bL$bL$aZ$aZ$cM$dO$dO$cU$cU$x
+$ek$el$cU$cU$cU$cU$dc$dc$dc$dc$ec$dR$dS$dU$dU$dS$aZ$dA$bR$bL$bL$bL$aZ$aZ$aZ$aZ$bR$cM$cU$dH$cU$cU$x
+$ej$h$ch$cU$cU$cU$cU$dc$dc$dc$cb$dS$dU$dV$dV$dU$dS$dV$aZ$bL$bL$bL$bL$aZ$aZ$aZ$dZ$eg$cU$cU$cU$cU$x
+$cb$ek$h$ch$cU$cU$cU$cU$dc$dc$cU$dS$dV$dW$dW$dU$dS$dU$dY$aZ$bL$bL$aZ$aZ$aZ$dZ$aZ$dH$cU$cU$cU$cU$x
+$ei$cb$ek$h$cU$cU$cU$cU$cU$dc$dc$dW$dW$dY$dY$dU$dS$dU$dW$dY$dZ$dZ$dZ$aZ$dZ$dW$ea$cU$cU$cU$cU$h$x
+$eh$ei$ej$ek$h$cU$cU$cU$cU$cU$cU$dZ$dY$dY$dY$dV$dS$dS$dS$dU$dV$dV$dV$dV$dV$dS$bg$cU$cU$cU$h$ej$x
+$eg$eh$ei$cb$ek$h$cU$cU$cU$cU$cU$dZ$dZ$dY$dY$dW$dU$dS$dS$dS$dS$dS$dS$dS$dS$dU$ca$cU$cU$h$ej$cb$x
+$ef$eg$eg$eh$ei$ej$h$cU$cU$cU$eh$aZ$aZ$dZ$dY$dW$dU$dS$dR$dR$dR$dR$dR$dR$dS$dY$cU$cU$h$ek$cb$eh$x
+$i$bg$ef$eg$eh$ei$ej$ek$ch$ek$aZ$aZ$aZ$dZ$dW$dV$dS$dR$dR$dR$dR$dR$dR$dR$dR$dZ$el$ek$ej$cb$eh$eh$x
+$i$i$i$i$ef$eg$eh$ca$ca$bL$bL$bL$bL$b$ae$dV$dU$dS$dR$dQ$dQ$ed$eb$dZ$ea$ca$ej$ej$ei$eh$eh$eh$x
+$ed$ed$ed$ec$ed$i$dZ$dZ$dZ$cF$cF$cz$bL$b$ae$dU$dU$dS$dR$dR$dZ$h$h$ek$ca$ej$cb$eh$eh$eg$eg$eg$x
+EOC
